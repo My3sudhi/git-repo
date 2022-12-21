@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello Mythri and Dimpu 143"
+echo "hello Mythri and Dimpu"
