@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "Hello Mythri and Dimpu"
-echo "Hello world, this is champ"
+echo "Hello world, this is sudhakar"
